@@ -2,6 +2,15 @@
 
 A new Flutter application.
 
+Flutter 与 原生双向通信的两端（android、IOS）实现demo
+
+android 使用kotlin实现
+ios 使用 swift 实现
+
+demo功能点：
+1、获取原生软件版本号并显示
+2、flutter 本地和网络图片的字节数据与原生端互传功能点（演示 Uint8List	byte[]	FlutterStandardTypedData 的数据对应关系）
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
