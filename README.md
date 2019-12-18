@@ -3,7 +3,7 @@
 
 # flutter_app
 
-- [Flutter Plugin 实战（Android、IOS端）](http://www.6mi8.com/2019/12/18/flutter-plugin-%e5%ae%9e%e6%88%98%ef%bc%88android%e3%80%81ios%e7%ab%af%ef%bc%89/)
+- [Flutter MethodChannel 实战（Android、IOS端）](http://www.6mi8.com/2019/12/18/flutter-methodchannel/)
 
 Flutter 与 原生双向通信的两端（android、IOS）实现demo
 
