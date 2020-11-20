@@ -40,7 +40,7 @@ class MainActivity : FlutterActivity() {
                 object : MethodCallHandler {
                     override fun onMethodCall(call: MethodCall, result: Result) {
                         if (call.method == "getVersion") { //获取版本号
-                            Log.e("MainActivity", "param=" + call.argument<String>("param"))
+                            Log.e("MainActivity", "param= " + call.argument<String>("param"))
 //                            startActivity(Intent(this@MainActivity, TestActivity::class.java))
                             result.success(getVersion())
                         } else if (call.method == "imageChannel") {//显示图片

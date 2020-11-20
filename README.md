@@ -14,7 +14,7 @@ demo功能点：
 
 1、获取原生软件版本号并显示
 
-2、flutter 本地和网络图片的字节数据与原生端互传功能点（演示 Uint8List	byte[]	FlutterStandardTypedData 的数据对应关系）
+2、flutter本地和网络图片的字节数据与原生端互传功能点（演示 Uint8List	byte[]	FlutterStandardTypedData 的数据对应关系）
 
 
 
